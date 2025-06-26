@@ -6,7 +6,7 @@ A clean, interactive hub for all my mini JavaScript projects — beautifully org
 
 ## Live Demo
 
- [JS Projects Hub - Live](https://your-hosted-url.com) <!-- Replace this link -->
+ [JS Projects Hub - Live]([https://your-hosted-url.com](https://js-projects-hub.vercel.app/)) <!-- Replace this link -->
 
 ---
 

@@ -6,7 +6,7 @@ A clean, interactive hub for all my mini JavaScript projects — beautifully org
 
 ## Live Demo
 
- [JS Projects Hub - Live](https://your-hosted-url.com) <!-- Replace this link -->
+[https://js-projects-hub.vercel.app/] <!-- Replace this link -->
 
 ---
 
@@ -48,7 +48,7 @@ A clean, interactive hub for all my mini JavaScript projects — beautifully org
 ##  whoami
 
 **Boughaba Mohamed Amine**  
-[YourEmail@example.com]  
+[mohamedamine.the.dev@gmail.com]  
 web dev, and UI/UX  
 
 ---

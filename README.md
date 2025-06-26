@@ -48,7 +48,7 @@ A clean, interactive hub for all my mini JavaScript projects — beautifully org
 ##  whoami
 
 **Boughaba Mohamed Amine**  
-[YourEmail@example.com]  
+[mohamedamine.the.dev@gmail.com]  
 web dev, and UI/UX  
 
 ---

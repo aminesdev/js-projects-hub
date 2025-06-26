@@ -1,22 +1,16 @@
-# 🧠 JS Projects Hub
+# JS Projects Hub
 
 A clean, interactive hub for all my mini JavaScript projects — beautifully organized with a floating navigation bar.
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 [JS Projects Hub - Live](https://your-hosted-url.com) <!-- Replace this link -->
-
----
-
-## 📸 Preview
-
-![JS Projects Hub Preview](./screenshot.png) <!-- Optional: Replace with your screenshot file -->
+ [JS Projects Hub - Live](https://your-hosted-url.com) <!-- Replace this link -->
 
 ---
 
-## 📁 Projects Included
+## Projects Included
 
 | Project Name        | Description                          |
 |---------------------|--------------------------------------|
@@ -34,24 +28,24 @@ A clean, interactive hub for all my mini JavaScript projects — beautifully org
 
 ---
 
-## 💡 Features
+## Features
 
-- 🧠 Simple interface to access mini JS projects
-- 📱 Fully responsive and mobile-friendly
-- 🧭 Floating bottom navigation bar with icons
-- 🎨 Clean and modern design using pure HTML, CSS, and JavaScript
-- ⌨️ Keyboard shortcut: `Esc` key to go back to home screen
+-  Simple interface to access mini JS projects
+-  Fully responsive and mobile-friendly
+-  Floating bottom navigation bar with icons
+-  Clean and modern design using pure HTML, CSS, and JavaScript
+-  Keyboard shortcut: `Esc` key to go back to home screen
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**
 
 ---
 
 
-## 🙋‍♂️ whoami
+##  whoami
 
 **Boughaba Mohamed Amine**  
 [YourEmail@example.com]  

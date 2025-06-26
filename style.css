@@ -124,11 +124,11 @@ body
 .project-frame-container
 {
     width: 100%;
-    height: calc(100vh - 150px);
-    min-height: 400px;
+    height: calc(100vh - 500px);
+    min-height: 600px;
     border-radius: var(--border-radius);
     overflow: auto;
-    border: 1px solid #e0e0e0;
+    border: 1px solid #ffffff;
 }
 
 .project-frame

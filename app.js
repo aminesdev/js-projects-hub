@@ -54,13 +54,16 @@ document.addEventListener('DOMContentLoaded', function () {
             name: 'Temp',
             path: 'projects/TemperatureConversion/index.html',
             icon: 'mdi:thermometer'
+        }, {
+            name: 'Weather',
+            path: 'projects/Weather/index.html',
+            icon: 'mdi:weather-cloudy'
         }
     ];
 
     const navItems = document.querySelector('.nav-items');
     const projectContainer = document.getElementById('projectContainer');
 
-    // Create navigation items
     projects.forEach(project => {
         const navItem = document.createElement('a');
         navItem.className = 'nav-item';
@@ -77,7 +80,6 @@ document.addEventListener('DOMContentLoaded', function () {
         navItems.appendChild(navItem);
     });
 
-    // Function to load a project
     function loadProject(path, name) {
         projectContainer.innerHTML = `
             <div class="project-header">
@@ -92,16 +94,13 @@ document.addEventListener('DOMContentLoaded', function () {
             </div>
         `;
 
-        // Add back button functionality
         document.getElementById('backButton').addEventListener('click', () => {
             showWelcomeScreen();
         });
 
-        // Focus the iframe for better keyboard navigation
         document.querySelector('.project-frame').focus();
     }
 
-    // Function to show welcome screen
     function showWelcomeScreen() {
         projectContainer.innerHTML = `
             <div class="welcome-message">
@@ -113,7 +112,6 @@ document.addEventListener('DOMContentLoaded', function () {
         clearActiveNavItem();
     }
 
-    // Function to set active nav item
     function setActiveNavItem(item) {
         document.querySelectorAll('.nav-item').forEach(navItem => {
             navItem.classList.remove('active');
@@ -121,14 +119,12 @@ document.addEventListener('DOMContentLoaded', function () {
         item.classList.add('active');
     }
 
-    // Function to clear active nav item
     function clearActiveNavItem() {
         document.querySelectorAll('.nav-item').forEach(navItem => {
             navItem.classList.remove('active');
         });
     }
 
-    // Keyboard navigation support
     document.addEventListener('keydown', function (e) {
         if (e.key === 'Escape' && !projectContainer.querySelector('.welcome-message')) {
             showWelcomeScreen();

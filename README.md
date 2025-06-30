@@ -25,6 +25,7 @@ A clean, interactive hub for all my mini JavaScript projects — beautifully org
 | Rock Paper Scissors | Play against the computer            |
 | Stopwatch           | Count elapsed time with precision    |
 | Temperature Convert | Convert between °C, °F, and K        |
+| Weather App         | Real-time weather data with API      |
 
 ---
 
@@ -53,4 +54,4 @@ web dev, and UI/UX
 
 ---
 
-> Built with ❤️ to practice and showcase my JavaScript skills.
+> Built to practice and showcase my JavaScript skills.
